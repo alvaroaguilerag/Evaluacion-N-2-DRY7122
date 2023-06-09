@@ -1,4 +1,4 @@
 Integrantes:
-Alvaro Aguilera
-Catalina Arriagada
+Alvaro Aguilera,
+Catalina Arriagada,
 Javiera Contreras
